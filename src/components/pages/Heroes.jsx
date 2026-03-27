@@ -10,7 +10,7 @@ const Heroes = () => {
             Pham Minh Hieu
           </h1>
 
-          <p className="text-xl text-gray-400 mb-6">AI Video Editor</p>
+          <p className="text-xl text-gray-400 mb-6">Content Creator</p>
 
           <p className="text-gray-300 leading-relaxed">
             I create storytelling videos using AI-generated visuals, voice, and
@@ -25,12 +25,15 @@ const Heroes = () => {
           <div className="flex flex-wrap gap-3">
             {[
               "CapCut",
-              "Premiere Pro",
+              "Premiere",
               "Photoshop",
               "Canva",
               "ChatGPT",
               "Midjourney",
               "Gemini",
+              "Kling AI",
+              "Suno AI",
+              "ElebvanLabs AI",
             ].map((skill, index) => (
               <span
                 key={index}
