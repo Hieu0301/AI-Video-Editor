@@ -25,7 +25,7 @@ const Heroes = () => {
           <div className="flex flex-wrap gap-3">
             {[
               "CapCut",
-              "Premiere",
+              "Flow AI",
               "Photoshop",
               "Canva",
               "ChatGPT",

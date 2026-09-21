@@ -1,20 +1,17 @@
 export default function VideoGrid() {
   const videos = [
-    "TN4oQE1ctt4",
+    "2bu2yS0XObY",
+    "h2IBiqBCxBI",
+    "VSp219oypcE",
+    "gEPLtb6mNsU",
+    "nS-twYZEkW8",
+    "QPFpoxC2s38",
+    "Qvd1mi6uRLI",
+    "LnI5TY_RZYg",
     "UUXg6uoFcg4",
-    "tilHiH3qm-4",
-    "rsETqMsS8Xs",
-    "MB72MttRkpA",
-    "zzs6vXoub_w",
+    "TN4oQE1ctt4",
     "o7rpfdAXIcU",
     "nX5reYr3nDU",
-    "PzYAz__oV_Y",
-    "jID4QGXsyTo",
-    "q6wLKImodNg",
-    "PBY-IRV6hzs",
-    "K_SxXTClKcg",
-    "71khXnMSC3k",
-    "TXkXixFK_iA",
   ];
 
   return (
